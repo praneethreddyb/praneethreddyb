@@ -79,8 +79,3 @@ I'm a **Software Consultant & Backend Engineer** specializing in distributed mic
 - High-throughput backend APIs — performance tuning, caching strategies, and database optimization.
 
 ---
-
-If you'd like, I can also:
-
-- Add fallback badges (stars, repos, followers) using shields.io.
-- Add a GitHub Action to generate stable stats images (recommended for private stats and availability).
