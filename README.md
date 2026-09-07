@@ -14,7 +14,7 @@ I'm a **Software Consultant & Backend Engineer** specializing in distributed mic
 - 👯 **Open to collaborate on:** Java/Spring Boot microservices, developer tooling, and API performance projects.
 - 🤔 **Looking for help with:** Cutting-edge cloud-native architectures and distributed database optimizations.
 - 💬 **Ask me about:** Java, Spring Boot, microservices architecture, SQL optimization, and API performance tuning.
-- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/praneethbarla) or [praneethbarla@gmail.com](mailto:praneethbarla@gmail)
+- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/praneethbarla) or [praneethbarla@gmail.com](mailto:praneethbarla@gmail.com)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** When not profiling streams or writing backend APIs, I'm analyzing cricket strategies and playing carroms!
 
